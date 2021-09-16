@@ -1,0 +1,25 @@
+{
+  "private": true,
+  "name": "slate-reproductions-naive-placeholder-text-forked",
+  "description": "A simple sandbox to reproduce Slate issues in a pared down editor.",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "slate": "0.58.0",
+    "slate-history": "0.58.0",
+    "slate-react": "0.58.0"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0",
+    "typescript": "3.7.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "version": "0.0.1"
+}
